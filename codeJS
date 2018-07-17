@@ -1,4 +1,4 @@
-var newArray = arr.flat(depth);
+var flatArray = arr.flat(depth);
 
 var arr1 = [[1,2,[3]],4];
 arr1.flat(2); 
